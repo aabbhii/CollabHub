@@ -1,0 +1,5 @@
+{
+  "name": "CollabStudy",
+  "description": "A production-level student collaboration and study management platform with real-time updates, task tracking, and gamification.",
+  "requestFramePermissions": []
+}
